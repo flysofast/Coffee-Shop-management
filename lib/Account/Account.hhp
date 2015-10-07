@@ -1,0 +1,23 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Account.chm
+Contents file=Account.hhc
+Index file=Account.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=Account
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="Account","Account.hhc","Account.hhk","","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+Account delete.htm
+Account delete_files\colorschememapping.xml
+Account delete_files\filelist.xml
+Account delete_files\item0001.xml
+Account delete_files\props002.xml
+Account delete_files\themedata.thmx
+

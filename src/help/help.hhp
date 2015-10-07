@@ -1,0 +1,35 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=help.chm
+Contents file=help.hhc
+Index file=help.hhk
+Enhanced decompilation=Yes
+Binary TOC=Yes
+Full-text search=Yes
+Language=0x042A
+Title=Giao dien va chuc nang
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="Giao dien va chuc nang","help.hhc","help.hhk","Giao dien phan mem.htm","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+Giao dien phan mem.htm
+Sua doi tuong.htm
+Them doi tuong.htm
+Giao di?n Ph?n m?m_files\colorschememapping.xml
+Giao di?n Ph?n m?m_files\filelist.xml
+Giao di?n Ph?n m?m_files\image001.png
+Giao di?n Ph?n m?m_files\image002.jpg
+Giao di?n Ph?n m?m_files\themedata.thmx
+S?a d?i tu?ng_files\colorschememapping.xml
+S?a d?i tu?ng_files\filelist.xml
+S?a d?i tu?ng_files\themedata.thmx
+Thêm d?i tu?ng_files\colorschememapping.xml
+Thêm d?i tu?ng_files\filelist.xml
+Thêm d?i tu?ng_files\themedata.thmx
+Xóa d?i tu?ng_files\colorschememapping.xml
+Xóa d?i tu?ng_files\filelist.xml
+Xóa d?i tu?ng_files\themedata.thmx
+

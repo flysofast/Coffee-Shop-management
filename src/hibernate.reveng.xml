@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+    <schema-selection match-catalog="CoffeeShopAptech" match-schema="dbo"/>
+    
+    <type-mapping>
+        <sql-type jdbc-type="NVARCHAR" hibernate-type="java.lang.String"/>
+        <sql-type jdbc-type="NCHAR" hibernate-type="java.lang.String" />
+        <sql-type jdbc-type="VARCHAR" hibernate-type="java.lang.String"/>
+    </type-mapping>
+    
+    <table-filter match-name="Functions"/>
+    <table-filter match-name="sysdiagrams"/>
+    <table-filter match-name="Bill"/>
+    <table-filter match-name="Unit"/>
+    <table-filter match-name="Publisher"/>
+    <table-filter match-name="Diary"/>
+    <table-filter match-name="Product_Bill"/>
+    <table-filter match-name="Price"/>
+    <table-filter match-name="Role_Function"/>
+    <table-filter match-name="Role"/>
+    <table-filter match-name="Category"/>
+    <table-filter match-name="Account"/>
+    <table-filter match-name="Product"/>
+  
+    <table name="Account" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+    </table>
+     
+    <table name="Unit" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+    </table> 
+    
+    <table name="Role_Function" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+    </table>
+
+    <table name="Role" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+    </table>
+
+    <table name="Diary" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+    </table>
+
+    <table name="Product" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+    </table>
+    
+    <table name="Functions" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+    </table>
+
+    <table name="Product_Bill" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+    </table> 
+    
+    <table name="Category" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+        
+    </table>
+
+    <table name="Bill" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+        
+    </table>
+
+    <table name="Publisher" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+ 
+    </table>
+
+    <table name="Price" catalog="CoffeeShopAptech" schema="dbo">
+        <primary-key>
+            <generator class="identity"></generator>
+            <key-column name="ID" property="id" />
+        </primary-key>
+    </table> 
+  
+</hibernate-reverse-engineering>

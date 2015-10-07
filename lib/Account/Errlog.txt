@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\Administrator\Desktop\Account\Account.chm
+
+
+Compile time: 0 minutes, 1 second
+3	Topics
+4	Local links
+0	Internet links
+0	Graphics
+
+
+Created c:\Users\Administrator\Desktop\Account\Account.chm, 20,234 bytes
+Compression decreased file by 10,806 bytes.

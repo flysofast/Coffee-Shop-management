@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/UnitEntityManager.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/RoleEntityManager.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/InternalMain.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/BillFormDB.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/AbstractEntityManager.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/DiaryEntityManager.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/RoleFormDB.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/LoginForm.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/ProductFormDB.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/utils/DatabaseConnector.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/RoleFunctionEntityManager.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/CategoryFormDB.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/PublisherFormDB.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/CheckOutForm.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/entities/BackupDatabase.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/entities/ProductBill.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/BillEntityManager.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/hibernate.reveng.xml</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/DiaryFormDB.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/ProductEntityManager.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/hibernate.cfg.xml</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/AccountFormDB.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/PriceEntityManager.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/BackupForm.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/view/HomeFormDB.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/FunctionEntityManager.java</file>
+            <file>file:/D:/Rin/Java-MySQL/BTL/src/models/CategoryEntityManager.java</file>
+        </group>
+    </open-files>
+</project-private>
